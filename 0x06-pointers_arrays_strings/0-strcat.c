@@ -24,3 +24,4 @@ src++;
 *dest = '\0';
 return (s);
 }
+
