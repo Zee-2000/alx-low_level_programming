@@ -16,7 +16,7 @@ i++;
 i--;
 while (j < i)
 {
-rev = s[i];
+rev = s[j];
 s[j] = s[i];
 s[i] = rev;
 j++;
