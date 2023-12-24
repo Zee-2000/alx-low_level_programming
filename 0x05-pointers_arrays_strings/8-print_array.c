@@ -17,6 +17,6 @@ if (!(i + 1 == n))
 {
 printf(", ");
 }
-printf("\n");
 }
+printf("\n");
 }
